@@ -1,11 +1,11 @@
 {
     "owners": [
-        "1346094895311355936",
-        "1226717518102794330",
-        "1450459042127282186"
+        "",
+        "",
+        ""
     ],
-    "Guild": "1562160314143866902",
+    "Guild": "",
     "prefix": "+",
-    "token": "MTU2MjUxNzczOTY2OTY4ODQxMQ.GQh0gk.44XrLzjBcBHUcAka2EWQBTYGVOD021vp9309-U",
-    "botId": "https://discord.com/oauth2/authorize?client_id=1562517739669688411"
+    "token": "",
+    "botId": ""
 }
